@@ -1,7 +1,7 @@
 # TD-ToothVoca
 
 - A device used to display English words and their meanings while brushing teeth.
-- A certain size of Korean font is stored in Font.h.
+- A certain size of Korean (including some Unicode) font is stored in Font.h.
 
 <br />
 
